@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SolidCrudApp.Business/SolidCrudApp.Business.csproj" />
+  <Project Path="SolidCrudApp.DataAccess/SolidCrudApp.DataAccess.csproj" />
+  <Project Path="SolidCrudApp.Models/SolidCrudApp.Models.csproj" />
+  <Project Path="SolidCrudApp.Presentation/SolidCrudApp.Presentation.csproj" Id="aa79464b-9c10-4ed5-baf1-b9b6926264eb" />
+</Solution>
